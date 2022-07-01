@@ -7,8 +7,6 @@ import comment from '../../assets/comment.png';
 import like from '../../assets/like.png';
 import save from '../../assets/save.png';
 import send from '../../assets/send.png';
-import igtv from '../../assets/igtv.png';
-import camera from '../../assets/camera.png';
 
 export const Feed = () => {
 

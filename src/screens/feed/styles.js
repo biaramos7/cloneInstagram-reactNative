@@ -2,6 +2,7 @@ import { StyleSheet } from 'react-native'
 
 const styles = StyleSheet.create({
     postHeader: {
+        flex: 1,
         flexDirection: 'row',
         justifyContent: 'space-between',
         paddingHorizontal: 10,
