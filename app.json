@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "proj-instagram",
+    "slug": "proj-instagram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
